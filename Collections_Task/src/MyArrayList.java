@@ -100,4 +100,9 @@ public class MyArrayList<E>{
   al.print();
  }
 }
+/*Output:
+ after adding elements size =4
+1 2 3 4 
+after removing element size =3
+1 2 3 */
  
